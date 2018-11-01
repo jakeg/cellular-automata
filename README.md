@@ -1,3 +1,3 @@
 # Cellular automata
 
-See it live at http://jakeg.co.uk/cellular.html
+[See it live](https://www.jakeg.co.uk/cellular-automata)
